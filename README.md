@@ -10,3 +10,4 @@ La finalidad principal de este proyecto es entender y practicar el uso de reposi
 
  * Windows 64Bits
  * Android
+ * WebGL
