@@ -8,6 +8,5 @@ La finalidad principal de este proyecto es entender y practicar el uso de reposi
 
 ##Builds actuales:
 
- * Windows 64Bits
- * Android
+ * Web
  * WebGL
