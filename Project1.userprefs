@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\enemigo1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMobility.cs" Line="12" Column="30" />
+      <File FileName="Assets\Scripts\enemigo1.cs" Line="26" Column="4" />
+      <File FileName="Assets\Tutorial\Assets2dTopDown\Scripts\Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoverBala.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\ImpactoBala.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\GameOverManager.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\PlayerManager.cs" Line="7" Column="19" />
+      <File FileName="Assets\Scripts\BotonManager.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
